@@ -3,8 +3,11 @@
 
 ## গিট ইনস্টলেশন এবং প্রাথমিক কনফিগারেশন
 
-sudo apt-get install git     # উবুন্টু বা ডেবিয়ানের জন্য
-brew install git             # ম্যাকের জন্য
+sudo apt-get install git   
+# উবুন্টু বা ডেবিয়ানের জন্য
+
+brew install git         
+# ম্যাকের জন্য
 
 git config --global user.name "আপনার নাম"   # গিট ইউজারনেম কনফিগার করা
 git config --global user.email "আপনার ইমেইল"  # গিট ইমেইল কনফিগার করা
